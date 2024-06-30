@@ -2,14 +2,6 @@
 
 A quick foray into the world of networking with C#.
 
-## Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Prerequisites
 
 Install the latest version of dotnet and C#.
