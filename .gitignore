@@ -1,0 +1,11 @@
+# Client folder
+./client/bin
+./client/obj
+./client/*.csproj
+./client/*.sln
+
+# Server folder
+./server/bin
+./server/obj
+./server/*.csproj
+./server/*.sln
